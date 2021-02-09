@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ff628f7-9ada-4355-9cfa-01d0571eece0" name="Default Changelist" comment="Task: added image for homepage">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/virtulization.html" beforeDir="false" afterPath="$PROJECT_DIR$/virtulization.html" afterDir="false" />
-    </list>
+    <list default="true" id="5ff628f7-9ada-4355-9cfa-01d0571eece0" name="Default Changelist" comment="Task: added styles for h1, h3, a, and p" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612792747694</updated>
-      <workItem from="1612792748789" duration="6490000" />
+      <workItem from="1612792748789" duration="7213000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: implemented Bootstrap framework for page">
       <created>1612826903798</created>
@@ -107,7 +102,28 @@
       <option name="project" value="LOCAL" />
       <updated>1612830114940</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Task: fixed formatting">
+      <created>1612831839268</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1612831839268</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Feature: added hero image and button">
+      <created>1612831857386</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1612831857386</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Task: added styles for h1, h3, a, and p">
+      <created>1612831879076</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1612831879076</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,7 +136,10 @@
     <MESSAGE value="Task: added navbar" />
     <MESSAGE value="Task: changed text font" />
     <MESSAGE value="Task: added image for homepage" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: added image for homepage" />
+    <MESSAGE value="Task: fixed formatting" />
+    <MESSAGE value="Feature: added hero image and button" />
+    <MESSAGE value="Task: added styles for h1, h3, a, and p" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: added styles for h1, h3, a, and p" />
   </component>
   <component name="WindowStateProjectService">
     <state x="421" y="116" key="FileChooserDialogImpl" timestamp="1612830189717">
@@ -135,9 +154,9 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="415" y="66" key="Github.UntrackedFilesDialog/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1612792792131" />
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1612828938002">
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1612831883893">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1612828938002" />
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1612831883893" />
   </component>
 </project>
