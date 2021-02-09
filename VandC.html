@@ -11,7 +11,7 @@
     <meta charset="UTF-8">
     <title>Title</title>
 </head>
-<body>
+<body class="text-left">
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
     <div class="container-fluid">
         <a class="navbar-brand" href="#">DOCKER, LINUX, AND CONTAINERIZATION</a>
@@ -41,15 +41,28 @@
     </div>
 </nav>
 <div class="container">
-    <h1 class="py-3"></h1>
+    <h1 class="py-3">How do Virtualization and Containerization compare?</h1>
 
-    <p></p>
+    <p>
+        Before containers were invented, “virtual machine” was the technology for optimizing server capacity. This software was programmed to emulate the hardware of the computer that has a complete operating system. This particular system allowed multiple different OS to run with multiple computers on a single physical server.
+        Each virtual machine images looks like a data folder. They can be moved and copied just like how normal files on your computer would. A user can centralize workloads and run different OS without increasing business expenses.
 
-    <p><em></em></p>
+    </p>
+    <p>
+        The disadvantages were that having to ensure all the requisite software, security, enough storage, and resource availability can be more time consuming. As the complexity of tasks increases, so does the need for performance from the system. It results in a substantially higher time required to complete the task. Also, due to the increase in virtual copies and required resources, the software development life cycle is more complex with VMs.
+    </p>
+    <p>
+        Virtualization is great for supporting application that require operating system’s full functionality when you want to deploy multiple application on one server or have a wide variety of operating systems to manage.
 
-    <h3></h3>
+    </p>
+    <p>
+        Containers can be a better choice if the biggest priority is efficiency with your tasks. In other words, they are a better choice when you want to minimize the number of servers your using while multiple applications are running. Containers and VMs used together can also provide a great deal of flexibility in deploying and managing app.
 
-    <p></p>
+    </p>
+    <p>
+        The important thing is to identify and examine the pros and cons of these two and utilize them with what you have. In IT strategy, both tools can be reliable in relation to one’s ultimate goals and immediate use cases and team’s work pattern and skillset before selecting a specific path.
+    </p>
+
     <img class="img-fluid" src="">
 </div>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
