@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ff628f7-9ada-4355-9cfa-01d0571eece0" name="Default Changelist" comment="Task: added image">
+    <list default="true" id="5ff628f7-9ada-4355-9cfa-01d0571eece0" name="Default Changelist" comment="Task: updated page structure">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dockerApache.html" beforeDir="false" afterPath="$PROJECT_DIR$/dockerApache.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linuxCommands.html" beforeDir="false" afterPath="$PROJECT_DIR$/linuxCommands.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612792747694</updated>
-      <workItem from="1612792748789" duration="10180000" />
+      <workItem from="1612792748789" duration="11770000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: implemented Bootstrap framework for page">
       <created>1612826903798</created>
@@ -218,14 +217,48 @@
       <option name="project" value="LOCAL" />
       <updated>1612843143162</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Task: added images for web server tutorial">
+      <created>1612844454824</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1612844454824</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Task: added formatting for h4">
+      <created>1612844467328</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1612844467328</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Feature: added content">
+      <created>1612844477837</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1612844477837</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Task: updated title">
+      <created>1612844551947</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1612844551947</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Task: updated page structure">
+      <created>1612844629938</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1612844629938</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Feature: implemented Bootstrap framework for page" />
     <MESSAGE value="Task: imported new font for heading" />
     <MESSAGE value="Task: created stylesheet" />
     <MESSAGE value="Task: added navbar" />
@@ -246,7 +279,12 @@
     <MESSAGE value="Task: locked scrollbar on pages" />
     <MESSAGE value="Task: added image for containerization" />
     <MESSAGE value="Task: added image" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: added image" />
+    <MESSAGE value="Task: added images for web server tutorial" />
+    <MESSAGE value="Task: added formatting for h4" />
+    <MESSAGE value="Feature: added content" />
+    <MESSAGE value="Task: updated title" />
+    <MESSAGE value="Task: updated page structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: updated page structure" />
   </component>
   <component name="WindowStateProjectService">
     <state x="421" y="116" key="FileChooserDialogImpl" timestamp="1612842456992">
@@ -261,9 +299,9 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="415" y="66" key="Github.UntrackedFilesDialog/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1612792792131" />
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1612843146111">
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1612844632626">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1612843146111" />
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1612844632626" />
   </component>
 </project>
