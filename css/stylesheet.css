@@ -4,6 +4,7 @@
 }
 .text-left {
     background-color: #191c1f;
+    overflow-y: scroll;
 }
 nav {
     font-family: "Lexend Mega";
