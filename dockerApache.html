@@ -41,16 +41,105 @@
     </div>
 </nav>
 <div class="container">
-    <h1 class="py-3"></h1>
+    <h1 class="py-3">
+        Setting Up a Docker Web Server
+    </h1>
+    <hr class="my-4">
+    <p>
+        This page is a brief tutorial on how to create a web server using Docker.
+    </p>
+    <p>
 
-    <p></p>
+    </p>
+    <h4>
+        Step 1. Install Docker on your computer
+    </h4>
+    <p>
 
-    <p><em></em></p>
+    </p>
 
-    <h3></h3>
+    <p>
+        This is as simple as heading to the Docker website and hitting the
+        "Download" button. To verify your installation is working, run the
+        command "docker run hello-world" in your shell once Docker is running.
+    </p>
+    <p>
 
-    <p></p>
-    <img class="img-fluid" src="">
+    </p>
+    <p>
+        <img src="images/Screenshot%20(2).png" class="card-img-top" style="width: 45rem;" alt="...">
+    </p>
+    <h4>
+        Step 2. Pull the Ubuntu image from Docker
+    </h4>
+    <p>
+
+    </p>
+
+    <p>
+        With Docker up and running, use the command "docker pull ubuntu" to run an
+        Ubuntu image.
+    </p>
+    <p>
+
+    </p>
+    <p>
+        <img src="images/Screenshot%20(1).png" class="card-img-top" style="width: 45rem;" alt="...">
+    </p>
+    <h4>
+        Step 3. Creating a container
+    </h4>
+    <p>
+
+    </p>
+
+    <p>
+        Run the newly-installed Ubuntu image using "docker run
+        -it ubuntu:latest /bin/bash" to start a new container and log into it.
+    </p>
+    <p>
+        Install apache and vim using the commands "apt-get install apache2" and "apt-get install vim" respectively.
+    </p>
+    <p>
+        Commit changes to the container using "docker commit (container ID) ubuntu-my_apache2". This
+        creates a new Docker image using the container you just created.
+    </p>
+    <p>
+
+    </p>
+    <p>
+        <img src="images/Screenshot (8).png" class="card-img-top" style="width: 45rem;" alt="...">
+    </p>
+    <h4>
+        Step 4. Sharing Data Between a Docker Container and Host
+    </h4>
+    <p>
+
+    </p>
+
+    <p>
+        Use the command “docker run -it -p 127.0.0.1:80:80 -v H:\Docker_tutorial\local_dir:
+        /var/www/html ubuntu-my_apache2 /bin/bash” to bind the container to a directory on
+        your computer.
+    </p>
+    <p>
+
+    </p>
+    <h4>
+        Step 5. Hosting your website on Docker
+    </h4>
+    <p>
+
+    </p>
+
+    <p>
+        Either create a new HTML file or place pre-made HTML files into the linked directory.
+        Use the command “/etc/init.d/apache2 restart” to start the apache service. Access the listed
+        IP using your web browser and you should now have your website successfully hosted.
+    </p>
+    <p>
+        <img src="images/Screenshot (11).png" class="card-img-top" style="width: 45rem;" alt="...">
+    </p>
 </div>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
