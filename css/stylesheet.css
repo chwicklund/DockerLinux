@@ -1,6 +1,10 @@
-body {
-    background-color: #8bb3ff;
+.text-center {
+    background-color: #191c1f;
 }
 nav {
+    font-family: "Lexend Mega";
+}
+h1, h3 {
+    color: white;
     font-family: "Lexend Mega";
 }
