@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ff628f7-9ada-4355-9cfa-01d0571eece0" name="Default Changelist" comment="Task: added image for containerization">
-      <change beforePath="$PROJECT_DIR$/containerization.html" beforeDir="false" afterPath="$PROJECT_DIR$/containerization.html" afterDir="false" />
+    <list default="true" id="5ff628f7-9ada-4355-9cfa-01d0571eece0" name="Default Changelist" comment="Task: added image">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dockerApache.html" beforeDir="false" afterPath="$PROJECT_DIR$/dockerApache.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612792747694</updated>
-      <workItem from="1612792748789" duration="9238000" />
+      <workItem from="1612792748789" duration="10180000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: implemented Bootstrap framework for page">
       <created>1612826903798</created>
@@ -209,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612843099107</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Task: added image">
+      <created>1612843143162</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1612843143162</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,7 +245,8 @@
     <MESSAGE value="Task: locked scrollbar" />
     <MESSAGE value="Task: locked scrollbar on pages" />
     <MESSAGE value="Task: added image for containerization" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: added image for containerization" />
+    <MESSAGE value="Task: added image" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: added image" />
   </component>
   <component name="WindowStateProjectService">
     <state x="421" y="116" key="FileChooserDialogImpl" timestamp="1612842456992">
@@ -251,9 +261,9 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="415" y="66" key="Github.UntrackedFilesDialog/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1612792792131" />
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1612842972348">
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1612843146111">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1612842972348" />
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1612843146111" />
   </component>
 </project>
