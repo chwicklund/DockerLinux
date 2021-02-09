@@ -1,5 +1,6 @@
 .text-center {
     background-color: #191c1f;
+    overflow-y: scroll;
 }
 .text-left {
     background-color: #191c1f;
