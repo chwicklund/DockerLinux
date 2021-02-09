@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ff628f7-9ada-4355-9cfa-01d0571eece0" name="Default Changelist" comment="Task: created stylesheet">
+    <list default="true" id="5ff628f7-9ada-4355-9cfa-01d0571eece0" name="Default Changelist" comment="Task: added image for homepage">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylesheet.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtulization.html" beforeDir="false" afterPath="$PROJECT_DIR$/virtulization.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +38,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HistoryWorksSite" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CloudRedesign" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -55,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612792747694</updated>
-      <workItem from="1612792748789" duration="4566000" />
+      <workItem from="1612792748789" duration="6490000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: implemented Bootstrap framework for page">
       <created>1612826903798</created>
@@ -78,7 +79,35 @@
       <option name="project" value="LOCAL" />
       <updated>1612828933998</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Task: added navbar">
+      <created>1612830087053</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612830087053</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Task: changed text font">
+      <created>1612830097942</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1612830097942</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Task: changed text font">
+      <created>1612830101887</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1612830101887</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Task: added image for homepage">
+      <created>1612830114940</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1612830114940</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,13 +117,16 @@
     <MESSAGE value="Feature: implemented Bootstrap framework for page" />
     <MESSAGE value="Task: imported new font for heading" />
     <MESSAGE value="Task: created stylesheet" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: created stylesheet" />
+    <MESSAGE value="Task: added navbar" />
+    <MESSAGE value="Task: changed text font" />
+    <MESSAGE value="Task: added image for homepage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: added image for homepage" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="116" key="FileChooserDialogImpl" timestamp="1612829491286">
+    <state x="421" y="116" key="FileChooserDialogImpl" timestamp="1612830189717">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1612829491286" />
+    <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1612830189717" />
     <state x="515" y="259" key="Github.ShareDialog" timestamp="1612792783841">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
